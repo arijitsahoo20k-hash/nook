@@ -9,9 +9,9 @@ export default defineConfig({
       registerType: 'autoUpdate',
       includeAssets: ['icons/apple-touch-icon.png'],
       manifest: {
-        name: 'nook — PW in-app browser',
+        name: 'nook — PW launcher',
         short_name: 'nook',
-        description: 'A cozy, installable in-app browser for your PW study sessions.',
+        description: 'A cozy, installable launcher that opens straight into PW.',
         start_url: '/',
         scope: '/',
         display: 'standalone',
